@@ -24,7 +24,7 @@ The Leave Management System is a web-based application designed to streamline an
 ## Installation
 
 1. Install PostgreSQL
-2. Clone the repository: `git clone https://github.com/your-username/leave-management-system.git`
+2. Clone the repository: `git clone (https://github.com/ASHIKinfohack/LEAVE-TRACK)`
 3. Navigate to the project directory: `cd leave-management-system`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Apply database migrations: `python manage.py migrate`
